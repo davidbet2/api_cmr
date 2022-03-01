@@ -1,0 +1,12 @@
+{
+  "clientes": [
+    {
+      "nombre": "David",
+      "empresa": "Construcciones",
+      "email": "davidbet2@hotmail.com",
+      "telefono": "3015480964",
+      "notas": "Pauta",
+      "id": 2
+    }
+  ]
+}
